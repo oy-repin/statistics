@@ -1,6 +1,6 @@
 # statistics
 
-##Projects in Mathematical Statistics
+## Projects in Mathematical Statistics
 
 Welcome to my repository dedicated to projects related to the application of mathematical statistics! Here, you will find two projects in which I utilized the scipy.stats, pingouin, and statsmodels libraries to conduct analysis and hypothesis testing using statistical methods.
 
